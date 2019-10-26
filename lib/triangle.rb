@@ -7,5 +7,4 @@ class Triangle
   def initialize(attributes)
     attributes.each {|lenght, value| self.send(("#{lenght}="), value)
   end
-
 end
