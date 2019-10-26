@@ -3,7 +3,7 @@ class Triangle
   end
   
   def initialize(attributes)
-    attributes.each {|lenght, value| self.send(("#{lenght}"))
+    attributes.each {|lenght, value| self.send(("#{lenght}="))
     
   end
 
