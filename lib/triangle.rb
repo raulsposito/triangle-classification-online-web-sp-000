@@ -1,3 +1,3 @@
 class Triangle 
   
-  attr_accessor 
+  attr_accessor :a, :b, :c 
