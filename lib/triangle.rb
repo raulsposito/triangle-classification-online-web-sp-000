@@ -12,6 +12,6 @@ class Triangle
   
   
   def validate_triangle 
-    real
+    real_triangle 
   
 end
