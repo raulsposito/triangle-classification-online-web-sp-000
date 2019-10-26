@@ -11,6 +11,6 @@ class Triangle
   
   
   
-  
+  def validate_triangle 
   
 end
