@@ -2,7 +2,8 @@ class Triangle
   class TriangleError < StandardError
   end
   
-  def initialize()
+  def initialize(attributes)
+    attributes 
     
   end
 
