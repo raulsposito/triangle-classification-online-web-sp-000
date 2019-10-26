@@ -10,6 +10,7 @@ class Triangle
   
   def kind 
     validate_triangle
+    if 
   
   
   def validate_triangle 
