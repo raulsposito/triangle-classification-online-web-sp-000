@@ -2,7 +2,7 @@ class Triangle
   class TriangleError < StandardError
   end
   
-  def initialize(:equilateral, :isosceles, :scalene)
+  def initialize()
     
   end
 
