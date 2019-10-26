@@ -3,7 +3,7 @@ class Triangle
   end
   
   def initialize(attributes)
-    attributes 
+    attributes.each 
     
   end
 
