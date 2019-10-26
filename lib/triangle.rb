@@ -12,6 +12,6 @@ class Triangle
   
   
   def validate_triangle 
-    real_triangle = [(a + b )]
+    real_triangle = [(a + b > c)]
   
 end
